@@ -1,2 +1,2 @@
 # Aplikasi-Belajar-Sumber-Energi
-ini adalah aplikasi belajar sumber belajar untuk android
+Aplikasi belajar sumber energi untuk android
